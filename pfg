@@ -1,0 +1,9 @@
+#Guardn On Facebook!
+apt install python
+pip install requests
+apt install git
+git clone https://github.com/Noxturnix/guardn
+cd guardn
+chmod +x guardn
+python guardn.py
+#EndSub
